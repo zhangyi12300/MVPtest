@@ -12,6 +12,6 @@ public class TestTwoActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        //第二个测试类
     }
 }

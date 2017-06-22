@@ -13,5 +13,10 @@ public class newTestActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //新的测试  测试新数据
+        init();
+    }
+
+    public void init(){
+
     }
 }
