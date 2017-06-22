@@ -13,5 +13,9 @@ public class TestTwoActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //第二个测试类
+        init();
+    }
+    public void init(){
+
     }
 }
