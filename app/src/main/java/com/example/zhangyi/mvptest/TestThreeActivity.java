@@ -14,7 +14,7 @@ public class TestThreeActivity extends Activity implements View.OnClickListener{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        //第三个测试界面
     }
 
     @Override
